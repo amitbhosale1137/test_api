@@ -8,11 +8,7 @@
       { "id": "2", "text": "another comment about post 1", "postId": "1" }
     ],
     "stationData": [
-    {
-      "stationID": 1,
-      "stationName": "fee",
-      "stationCode": "sdf"
-    },
+    
     {
       "stationID": 2,
       "stationName": "New Delhi",
