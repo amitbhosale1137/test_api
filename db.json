@@ -7,7 +7,221 @@
       { "id": "1", "text": "a comment about post 1", "postId": "1" },
       { "id": "2", "text": "another comment about post 1", "postId": "1" }
     ],
-    "profile": {
-      "name": "typicode"
+    "stationData": [
+    {
+      "stationID": 1,
+      "stationName": "fee",
+      "stationCode": "sdf"
+    },
+    {
+      "stationID": 2,
+      "stationName": "New Delhi",
+      "stationCode": "NDLS"
+    },
+    {
+      "stationID": 5,
+      "stationName": "SHIMOGA",
+      "stationCode": "SME"
+    },
+    {
+      "stationID": 18,
+      "stationName": "HUBLI",
+      "stationCode": "UBL"
+    },
+    {
+      "stationID": 20,
+      "stationName": "Solapur",
+      "stationCode": "SLP"
+    },
+    {
+      "stationID": 79,
+      "stationName": "BELGUAM",
+      "stationCode": "BGM"
+    },
+    {
+      "stationID": 94,
+      "stationName": "banglore",
+      "stationCode": "banglore"
+    },
+    {
+      "stationID": 97,
+      "stationName": "Gwalior",
+      "stationCode": "Gwalior"
+    },
+    {
+      "stationID": 98,
+      "stationName": "ranchi Junction",
+      "stationCode": "rNC"
+    },
+    {
+      "stationID": 99,
+      "stationName": "Howrah Junction",
+      "stationCode": "HWH"
+    },
+    {
+      "stationID": 100,
+      "stationName": "Chennai Central",
+      "stationCode": "MAS"
+    },
+    {
+      "stationID": 101,
+      "stationName": "Kolkata",
+      "stationCode": "KOAA"
+    },
+    {
+      "stationID": 102,
+      "stationName": "Bangalore City",
+      "stationCode": "SBC"
+    },
+    {
+      "stationID": 103,
+      "stationName": "Secunderabad Junction",
+      "stationCode": "SC"
+    },
+    {
+      "stationID": 104,
+      "stationName": "Ahmedabad Junction",
+      "stationCode": "ADI"
+    },
+    {
+      "stationID": 105,
+      "stationName": "Pune Junction",
+      "stationCode": "PUNE"
+    },
+    {
+      "stationID": 106,
+      "stationName": "Jaipur Junction",
+      "stationCode": "JP"
+    },
+    {
+      "stationID": 107,
+      "stationName": "Kanpur Central",
+      "stationCode": "CNB"
+    },
+    {
+      "stationID": 108,
+      "stationName": "Lucknow NR",
+      "stationCode": "LKO"
+    },
+    {
+      "stationID": 109,
+      "stationName": "Patna Junction",
+      "stationCode": "PNBE"
+    },
+    {
+      "stationID": 110,
+      "stationName": "Bhopal Junction",
+      "stationCode": "BPL"
+    },
+    {
+      "stationID": 111,
+      "stationName": "Tirupathi",
+      "stationCode": "TPT"
+    },
+    {
+      "stationID": 112,
+      "stationName": "Thiruvananthapuram Central",
+      "stationCode": "TVC"
+    },
+    {
+      "stationID": 113,
+      "stationName": "Visakhapatnam",
+      "stationCode": "VSKP"
+    },
+    {
+      "stationID": 114,
+      "stationName": "Nagpur",
+      "stationCode": "NGP"
+    },
+    {
+      "stationID": 115,
+      "stationName": "Varanasi Junction",
+      "stationCode": "BSB"
+    },
+    {
+      "stationID": 116,
+      "stationName": "Vijayawada Junction",
+      "stationCode": "BZA"
+    },
+    {
+      "stationID": 117,
+      "stationName": "Madurai Junction",
+      "stationCode": "MDU"
+    },
+    {
+      "stationID": 118,
+      "stationName": "Mangalore Central",
+      "stationCode": "MAQ"
+    },
+    {
+      "stationID": 119,
+      "stationName": "Coimbatore Junction",
+      "stationCode": "CBE"
+    },
+    {
+      "stationID": 120,
+      "stationName": "Dehradun",
+      "stationCode": "DDN"
+    },
+    {
+      "stationID": 122,
+      "stationName": "Cairoo",
+      "stationCode": "Egp"
+    },
+    {
+      "stationID": 124,
+      "stationName": "CSMT",
+      "stationCode": "555"
+    },
+    {
+      "stationID": 129,
+      "stationName": "Surat",
+      "stationCode": "SRT"
+    },
+    {
+      "stationID": 130,
+      "stationName": "string",
+      "stationCode": "string"
+    },
+    {
+      "stationID": 131,
+      "stationName": "Noida",
+      "stationCode": "Noida"
+    },
+    {
+      "stationID": 139,
+      "stationName": "Chapra",
+      "stationCode": "Chapra"
+    },
+    {
+      "stationID": 140,
+      "stationName": "Hajipur",
+      "stationCode": "Hajipur"
+    },
+    {
+      "stationID": 141,
+      "stationName": "Mahrakh",
+      "stationCode": "MSK"
+    },
+    {
+      "stationID": 142,
+      "stationName": "kothapudi",
+      "stationCode": "koth"
+    },
+    {
+      "stationID": 143,
+      "stationName": "Dudhani",
+      "stationCode": "Dud"
+    },
+    {
+      "stationID": 144,
+      "stationName": "Gulbarga",
+      "stationCode": "GLB"
+    },
+    {
+      "stationID": 145,
+      "stationName": "Maindargi",
+      "stationCode": "MAI"
     }
+  ]
   }
